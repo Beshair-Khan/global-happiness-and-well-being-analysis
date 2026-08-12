@@ -74,7 +74,7 @@ The 10 happiest and 10 least happy countries by average Score across the three y
 - **Asia** shows the widest internal variation, reflecting its mix of wealthy and lower income nations.
 - The happiest and least happy countries differ by more than double in Score, happiness is unevenly distributed globally.
 
-Full written report: [`reports/insight_report.md`](reports/insight_report.md)
+Full written report: [`reports/insight_report.md`](report/insight_report.md)
 
 
 ## Important Note
